@@ -1,3 +1,20 @@
+**Analisis dan Pertanyaan**
+1. Mapel mana yang memiliki rata-rata nilai tertinggi?
+Matematika
+2. Mapel mana yang memiliki nilai terendah?
+Bahasa Inggris
+3. Bagaimana visualisasi membantu dalam memahami data?
+Mempermudah dalam membaca data
+Refleksi Siswa
+
+1. Apa hal baru yang kamu pelajari dari kegiatan analisis dan visualisasi data?
+Python bisa mengambil data dari file lain dalam format .csv
+2. Kesulitan apa yang kamu alami dalam membuat grafik?
+-
+3. Menurtu kamu AI apa membantu dalam analysis sebua data?
+Iya, Membantu mempermudah dalam membaca data
+
+
 **Hasil di terminal:**
 
 PS C:\Users\keyza\OneDrive\Documents\FILE SEKOLAH\XIR7 Phyton> & C:/Users/keyza/AppData/Local/Programs/Python/Python313/python.exe "c:/Users/keyza/OneDrive/Documents/FILE SEKOLAH/XIR7 Phyton/2analisisdata/2projekbaru.py"
