@@ -39,4 +39,14 @@ Modus: 85
 **Hasil tabel2:**
 
 ![alt text](rata-rata.png)
+
+> plt.title('Rata-Rata Nilai per Mapel')
+> t.xlabel('Mata Pelajaran')
+> plt.ylabel('Nilai Rata-Rata')
+> plt.show()
+
 ![alt text](sebaran.png)
+
+> sns.boxplot(x='Mapel', y='Nilai', data=data)
+> plt.title('Sebaran Nilai per Mata Pelajaran')
+> plt.show()
